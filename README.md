@@ -29,5 +29,9 @@ For this project I would use following hardware:
 
 - Arduino IDE
 
+## How to connect
+
+![alt text](https://github.com/Alexandra-Korniichuk/arduino-weather/blob/master/fritzing_img/trasmitter-receiver-img_bb.jpg?raw=true)
+
 
 
