@@ -1,4 +1,4 @@
-# arduino-weather
+# :zap: arduino-weather :zap:
 
 ## Description
 
